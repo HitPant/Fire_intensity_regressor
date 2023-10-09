@@ -7,7 +7,7 @@ dataset: https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset
 In this project we have used Algerian Forest Fires Dataset to find intensity of fire using regression techniques. Here we compute FWI based on features columns.
 FWI: Fire Weather Index, it is a numeric rating system used to assess the potential intensity and behavior of wildfires based on current weather conditions
 
-## Techniques used:<br>
+## Techniques used: <br>
     1. Linear Regression
     2. Ridge Regression
     3. Lasso Regression
@@ -31,7 +31,7 @@ FWI: Fire Weather Index, it is a numeric rating system used to assess the potent
 Density plot of featues to understand the distribution<br>
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/data_dist.png)
 
-### Analyse outliers<br>
+### Analyse outliers <br>
 
 ### Feature Selection <br>
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/corr.png)
@@ -45,7 +45,7 @@ Density plot of featues to understand the distribution<br>
 
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/Screenshot%202023-10-08%20203244.png)
 
-### Parameter Tuning
+### Parameter Tuning using ElasticNet
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/Screenshot%202023-10-08%20210557.png)
 
 
