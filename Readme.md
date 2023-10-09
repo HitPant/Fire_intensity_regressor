@@ -28,7 +28,7 @@ FWI: Fire Weather Index, it is a numeric rating system used to assess the potent
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/fire1.png)
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/fire2.png)
 
-Density plot of featues to understand the distribution<br>
+### Density plot of featues to understand the distribution <br>
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/data_dist.png)
 
 ### Analyse outliers <br>
