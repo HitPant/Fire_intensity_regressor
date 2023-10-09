@@ -1,4 +1,4 @@
-![alt-test]([https://github.com/HitPant/nv_deepstream_apps/blob/main/highway_entry_exit/model_files/highway_inf.gif](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/algeria.jpeg))
+![alt-test](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/algeria.jpeg)
 
 # Description
 
