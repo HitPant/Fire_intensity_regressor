@@ -19,34 +19,34 @@ FWI: Fire Weather Index, it is a numeric rating system used to assess the potent
         - convert data type for columns
         - merge data
 
-        ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/cleaned_data.png)
+![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/cleaned_data.png)
     
     2. EDA:
         - Encoding categorical variables
 
         - Monthly fire analysis region-wise<br>
-        ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/fire1.png)
-        ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/fire2.png)
+![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/fire1.png)
+![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/fire2.png)
 
         - Densit plot of featues to understand the distribution<br>
-        ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/data_dist.png)
+![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/data_dist.png)
 
         - Analyse outliers<br>
 
         - Feature Selection <br>
-        ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/corr.png)
+![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/corr.png)
 
         - Feature Scaling <br>
-        ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/scaling.png)
+![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/scaling.png)
     
     3. Model Training:
         - Regression
-        ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/Slide1.JPG)
+![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/Slide1.JPG)
 
-        ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/Screenshot%202023-10-08%20203244.png)
+![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/Screenshot%202023-10-08%20203244.png)
 
         - Parameter Tuning
-        ![alt-text](https://github.com/HitPant/Flight_price_prediction/blob/main/images/cls.jpg)
+![alt-text](https://github.com/HitPant/Flight_price_prediction/blob/main/images/cls.jpg)
 
 
         
