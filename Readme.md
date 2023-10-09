@@ -22,7 +22,7 @@ FWI: Fire Weather Index, it is a numeric rating system used to assess the potent
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/cleaned_data.png)
     
 ## 2. EDA:
-    ### Encoding categorical variables
+### Encoding categorical variables
 
         - Monthly fire analysis region-wise<br>
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/fire1.png)
@@ -31,21 +31,21 @@ FWI: Fire Weather Index, it is a numeric rating system used to assess the potent
 Density plot of featues to understand the distribution<br>
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/data_dist.png)
 
-        - Analyse outliers<br>
+### Analyse outliers<br>
 
-        - Feature Selection <br>
+### Feature Selection <br>
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/corr.png)
 
-        - Feature Scaling <br>
+### Feature Scaling <br>
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/scaling.png)
     
-### 3. Model Training:
-Regression
+## 3. Model Training:
+### Regression
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/Slide1.JPG)
 
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/Screenshot%202023-10-08%20203244.png)
 
-Parameter Tuning
+### Parameter Tuning
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/Screenshot%202023-10-08%20210557.png)
 
 
