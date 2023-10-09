@@ -24,7 +24,7 @@ FWI: Fire Weather Index, it is a numeric rating system used to assess the potent
 ## 2. EDA:
 ### Encoding categorical variables
 
-        - Monthly fire analysis region-wise <br>
+        - Monthly fire analysis region-wise 
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/fire1.png)
 ![alt-text](https://github.com/HitPant/Fire_intensity_regressor/blob/master/images/fire2.png)
 
